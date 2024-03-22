@@ -88,7 +88,6 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           },
                           ),
                           const Text("by signing up you agree to the terms\nof service and privacy policy",
-                             maxLines: 2,
                             style: TextStyle(
                               color: Colors.white,
 
